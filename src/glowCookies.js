@@ -5,7 +5,7 @@
     2021 - v 3.1.3
 */
 
-class GlowCookies {
+export class GlowCookies {
   constructor() {
     // Cookies banner
     this.banner = undefined
@@ -483,4 +483,3 @@ class LanguagesGC {
 
 }
 
-const glowCookies = new GlowCookies()
